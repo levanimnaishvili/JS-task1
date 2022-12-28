@@ -1,13 +1,3 @@
-let num = "5";
-
-console.log(num);
-
-let gf = 5;
-
-console.log(`ლექსომ თქვა ${gf === num}`);
-
-console.log(0 == false);
-
 //Task 1
 let sisterName = "ანა";
 let sisterAge = 28;
@@ -53,7 +43,6 @@ console.log(result);
 let array1 = ["Banana", "Orange", "Apple", "Mango",2,12];
 
 let i = 0;
-
 while(typeof(array1[i]) == 'string'){
     console.log(array1[i]);
     i++;
